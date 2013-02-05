@@ -12,6 +12,7 @@ public class StringBugs{
      * @bugs none.
      */
     public static void main(String[] args) {
+    	System.out.println("Inciando prueba de depuración");
         Scanner stdin = new Scanner(System.in);
         
         System.out.println("Enter a String: ");
