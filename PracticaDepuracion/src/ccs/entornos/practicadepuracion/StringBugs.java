@@ -30,6 +30,7 @@ public class StringBugs{
         
         System.out.println("The reverse of string \""
                             + str + "\" is " + reverseString(str));
+        System.out.println("Terminando prueba de depuración");
     }   
 
     /**
